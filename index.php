@@ -1,5 +1,6 @@
-<?php
+<<?php 
+	
+	echo "Hello world"
 
-echo "My first PHP code! <strong>Hello world</strong>";
 
-?>
+ ?>
